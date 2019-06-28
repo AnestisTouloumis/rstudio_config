@@ -1,33 +1,59 @@
 RStudio Configuration
 ================
 
-## R Markdown
+This document includes screenshots of my preferred RStudio configuration. It heavily relies on this [post](https://drdoane.com/my-rstudio-configuration/) by William Diane.
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+General
+-------
 
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+![Basic](img/rstudio_configuration_01.png) ![Advanced](img/rstudio_configuration_02.png)
 
-``` r
-summary(cars)
-```
+Code
+----
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+![Display](img/rstudio_configuration_03.png) ![Editing](img/rstudio_configuration_04.png) ![Saving](img/rstudio_configuration_05.png) ![Completion](img/rstudio_configuration_06.png) ![Diagnostics](img/rstudio_configuration_07.png)
 
-## Including Plots
+Appearance
+----------
 
-You can also embed plots, for example:
+![Appearance](img/rstudio_configuration_08.png)
 
-![](vignette_files/figure-gfm/pressure-1.png)<!-- -->
+Pane Layout
+-----------
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+![Pane\_Layout](img/rstudio_configuration_09.png)
+
+Packages
+--------
+
+![Management](img/rstudio_configuration_10.png) ![Development](img/rstudio_configuration_11.png)
+
+R Markdown
+----------
+
+![Rmarkdown](img/rstudio_configuration_12.png)
+
+Sweave
+------
+
+![Sweave](img/rstudio_configuration_13.png)
+
+Spelling
+--------
+
+![Spelling](img/rstudio_configuration_14.png)
+
+Git/SNV
+-------
+
+![Git\_SNV](img/rstudio_configuration_15.png)
+
+Publishing
+----------
+
+![Publishing](img/rstudio_configuration_16.png)
+
+Terminal
+--------
+
+![Terminal](img/rstudio_configuration_17.png)

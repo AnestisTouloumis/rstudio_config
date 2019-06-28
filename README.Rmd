@@ -7,22 +7,51 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+This document includes screenshots of my preferred RStudio configuration. It heavily relies on this [post](https://drdoane.com/my-rstudio-configuration/) by William Diane.
+
+
+
+## General
+
+![Basic](img/rstudio_configuration_01.png)
+![Advanced](img/rstudio_configuration_02.png)
+
+## Code
+
+![Display](img/rstudio_configuration_03.png)
+![Editing](img/rstudio_configuration_04.png)
+![Saving](img/rstudio_configuration_05.png)
+![Completion](img/rstudio_configuration_06.png)
+![Diagnostics](img/rstudio_configuration_07.png)
+
+
+## Appearance
+![Appearance](img/rstudio_configuration_08.png)
+
+## Pane Layout
+![Pane_Layout](img/rstudio_configuration_09.png)
+
+
+## Packages
+![Management](img/rstudio_configuration_10.png)
+![Development](img/rstudio_configuration_11.png)
+
 ## R Markdown
+![Rmarkdown](img/rstudio_configuration_12.png)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Sweave
+![Sweave](img/rstudio_configuration_13.png)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Spelling
+![Spelling](img/rstudio_configuration_14.png)
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+## Git/SNV
+![Git_SNV](img/rstudio_configuration_15.png)
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Publishing
+![Publishing](img/rstudio_configuration_16.png)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Terminal
+![Terminal](img/rstudio_configuration_17.png)
