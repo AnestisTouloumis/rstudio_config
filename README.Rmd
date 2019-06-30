@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This document includes screenshots of my preferred RStudio configuration. It heavily relies on this [post](https://drdoane.com/my-rstudio-configuration/) by William Diane.
+This document includes screenshots of my preferred RStudio configuration and it heavily relies on this [post](https://drdoane.com/my-rstudio-configuration/) by William Diane.
 
 
 
