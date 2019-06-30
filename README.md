@@ -6,7 +6,7 @@ This document includes screenshots of my preferred RStudio configuration. It hea
 General
 -------
 
-![](img/rstudio_configuration_01.png) ![Advanced](img/rstudio_configuration_02.png)
+<img src="img/rstudio_configuration_01.png"/> ![](img/rstudio_configuration_01.png) ![Advanced](img/rstudio_configuration_02.png)
 
 Code
 ----
