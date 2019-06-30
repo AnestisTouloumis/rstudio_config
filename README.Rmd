@@ -1,5 +1,6 @@
 ---
 title: "RStudio Configuration"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -12,45 +13,45 @@ This document includes screenshots of my preferred RStudio configuration. It hea
 
 ## General
 
-![](img/rstudio_configuration_01.png)
-![Advanced](img/rstudio_configuration_02.png)
+![Basic](img/rstudio_configuration_01.PNG)
+![Advanced](img/rstudio_configuration_02.PNG)
 
 ## Code
 
-![Display](img/rstudio_configuration_03.png)
-![Editing](img/rstudio_configuration_04.png)
-![Saving](img/rstudio_configuration_05.png)
-![Completion](img/rstudio_configuration_06.png)
-![Diagnostics](img/rstudio_configuration_07.png)
+![Display](img/rstudio_configuration_03.PNG)
+![Editing](img/rstudio_configuration_04.PNG)
+![Saving](img/rstudio_configuration_05.PNG)
+![Completion](img/rstudio_configuration_06.PNG)
+![Diagnostics](img/rstudio_configuration_07.PNG)
 
 
 ## Appearance
-![Appearance](img/rstudio_configuration_08.png)
+![Appearance](img/rstudio_configuration_08.PNG)
 
 ## Pane Layout
-![Pane_Layout](img/rstudio_configuration_09.png)
+![Pane_Layout](img/rstudio_configuration_09.PNG)
 
 
 ## Packages
-![Management](img/rstudio_configuration_10.png)
-![Development](img/rstudio_configuration_11.png)
+![Management](img/rstudio_configuration_10.PNG)
+![Development](img/rstudio_configuration_11.PNG)
 
 ## R Markdown
-![Rmarkdown](img/rstudio_configuration_12.png)
+![Rmarkdown](img/rstudio_configuration_12.PNG)
 
 ## Sweave
-![Sweave](img/rstudio_configuration_13.png)
+![Sweave](img/rstudio_configuration_13.PNG)
 
 ## Spelling
-![Spelling](img/rstudio_configuration_14.png)
+![Spelling](img/rstudio_configuration_14.PNG)
 
 
 ## Git/SNV
-![Git_SNV](img/rstudio_configuration_15.png)
+![Git_SNV](img/rstudio_configuration_15.PNG)
 
 
 ## Publishing
-![Publishing](img/rstudio_configuration_16.png)
+![Publishing](img/rstudio_configuration_16.PNG)
 
 ## Terminal
-![Terminal](img/rstudio_configuration_17.png)
+![Terminal](img/rstudio_configuration_17.PNG)
