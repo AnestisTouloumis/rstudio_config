@@ -7,8 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This document includes screenshots of my preferred RStudio configuration. It heavily relies on this [post](https://drdoane.com/my-rstudio-configuration/) by William Diane. Details about the different options can be found [here](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio).
-
+Screenshots of my preferred RStudio configuration. 
 
 ## General
 ![Basic](img/rstudio_configuration_general_basic.PNG)
@@ -58,3 +57,10 @@ This document includes screenshots of my preferred RStudio configuration. It hea
 
 ## Terminal
 ![Terminal](img/rstudio_configuration_terminal.PNG)
+
+
+## Sources
+
+- Document relies on this [post](https://drdoane.com/my-rstudio-configuration/) by William Diane. 
+- Details about the different options can be found [here](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio).
+
