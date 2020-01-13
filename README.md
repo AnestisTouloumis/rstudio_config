@@ -1,11 +1,7 @@
 RStudio Configuration
 ================
 
-This document includes screenshots of my preferred RStudio
-configuration. It heavily relies on this
-[post](https://drdoane.com/my-rstudio-configuration/) by William Diane.
-Details about the different options can be found
-[here](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio).
+Screenshots of my preferred RStudio configuration.
 
 ## General
 
@@ -14,8 +10,8 @@ Details about the different options can be found
 
 ## Code
 
-![Display](img/rstudio_configuration_code_display.PNG)
 ![Editing](img/rstudio_configuration_code_editing.PNG)
+![Display](img/rstudio_configuration_code_display.PNG)
 ![Saving](img/rstudio_configuration_code_saving.PNG)
 ![Completion](img/rstudio_configuration_code_completion.PNG)
 ![Diagnostics](img/rstudio_configuration_code_diagnostics.PNG)
@@ -56,3 +52,11 @@ Details about the different options can be found
 ## Terminal
 
 ![Terminal](img/rstudio_configuration_terminal.PNG)
+
+## Sources
+
+  - Document relies on this
+    [post](https://drdoane.com/my-rstudio-configuration/) by William
+    Diane.
+  - Details about the different options can be found
+    [here](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio).

@@ -15,8 +15,8 @@ Screenshots of my preferred RStudio configuration.
 
 
 ## Code
-![Display](img/rstudio_configuration_code_display.PNG)
 ![Editing](img/rstudio_configuration_code_editing.PNG)
+![Display](img/rstudio_configuration_code_display.PNG)
 ![Saving](img/rstudio_configuration_code_saving.PNG)
 ![Completion](img/rstudio_configuration_code_completion.PNG)
 ![Diagnostics](img/rstudio_configuration_code_diagnostics.PNG)
