@@ -56,7 +56,13 @@ Screenshots of my preferred RStudio configuration.
 
 
 ## Terminal
-![Terminal](img/rstudio_configuration_terminal.PNG)
+![General](img/rstudio_configuration_terminal_general.PNG)
+![Closing](img/rstudio_configuration_terminal_closing.PNG)
+
+
+## Accessibility
+![General](img/rstudio_configuration_accessibility_general.PNG)
+![Closing](img/rstudio_configuration_accessibility_announcements.PNG)
 
 
 ## Sources
