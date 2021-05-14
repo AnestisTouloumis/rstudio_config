@@ -6,6 +6,7 @@ Screenshots of my preferred RStudio configuration.
 ## General
 
 ![Basic](img/rstudio_configuration_general_basic.PNG)
+![Graphics](img/rstudio_configuration_general_graphics.PNG)
 ![Advanced](img/rstudio_configuration_general_advanced.PNG)
 
 ## Code
@@ -31,7 +32,10 @@ Screenshots of my preferred RStudio configuration.
 
 ## R Markdown
 
-![Rmarkdown](img/rstudio_configuration_rmarkdown.PNG)
+![Basic](img/rstudio_configuration_rmarkdown_basic.PNG)
+![Advanced](img/rstudio_configuration_rmarkdown_advanced.PNG)
+![visual](img/rstudio_configuration_rmarkdown_visual.PNG)
+![Citations](img/rstudio_configuration_rmarkdown_citations.PNG)
 
 ## Sweave
 
@@ -59,10 +63,14 @@ Screenshots of my preferred RStudio configuration.
 ![General](img/rstudio_configuration_accessibility_general.PNG)
 ![Closing](img/rstudio_configuration_accessibility_announcements.PNG)
 
+## Python
+
+![Python](img/rstudio_configuration_python.PNG)
+
 ## Sources
 
-  - Document relies on this
+-   Document relies on this
     [post](https://drdoane.com/my-rstudio-configuration/) by William
     Diane.
-  - Details about the different options can be found
+-   Details about the different options can be found
     [here](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio).
