@@ -17,13 +17,17 @@ Screenshots of my preferred RStudio configuration.
 ![Completion](img/rstudio_configuration_code_completion.PNG)
 ![Diagnostics](img/rstudio_configuration_code_diagnostics.PNG)
 
+## Console
+
+![Console](img/rstudio_configuration_console.PNG)
+
 ## Appearance
 
 ![Appearance](img/rstudio_configuration_appearance.PNG)
 
 ## Pane Layout
 
-![Pane\_Layout](img/rstudio_configuration_panelayout.PNG)
+![Pane_Layout](img/rstudio_configuration_panelayout.PNG)
 
 ## Packages
 
@@ -37,6 +41,10 @@ Screenshots of my preferred RStudio configuration.
 ![visual](img/rstudio_configuration_rmarkdown_visual.PNG)
 ![Citations](img/rstudio_configuration_rmarkdown_citations.PNG)
 
+## Python
+
+![Python](img/rstudio_configuration_python.PNG)
+
 ## Sweave
 
 ![Sweave](img/rstudio_configuration_sweave.PNG)
@@ -47,7 +55,7 @@ Screenshots of my preferred RStudio configuration.
 
 ## Git/SNV
 
-![Git\_SNV](img/rstudio_configuration_gitsvn.PNG)
+![Git_SNV](img/rstudio_configuration_gitsvn.PNG)
 
 ## Publishing
 
@@ -62,10 +70,6 @@ Screenshots of my preferred RStudio configuration.
 
 ![General](img/rstudio_configuration_accessibility_general.PNG)
 ![Closing](img/rstudio_configuration_accessibility_announcements.PNG)
-
-## Python
-
-![Python](img/rstudio_configuration_python.PNG)
 
 ## Sources
 
